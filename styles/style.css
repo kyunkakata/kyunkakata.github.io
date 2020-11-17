@@ -1,0 +1,17 @@
+h1 {
+  color: red;
+  width: 500px;
+  border: 1px solid black;
+}
+#unix {
+  color: green;
+}
+.skyblue {
+  color: skyblue;
+}
+img[src] {
+  border: 1px solid black;
+}
+h1:hover {
+  border: 1px solid skyblue;
+}
